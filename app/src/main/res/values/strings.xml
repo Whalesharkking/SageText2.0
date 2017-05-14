@@ -2,4 +2,5 @@
     <string name="app_name">SageText</string>
     <string name="beschriftung">Was soll ich sagen?</string>
     <string name="sag_es">Sag es!</string>
+    <string name="eingabe">Hölzli</string>
 </resources>
